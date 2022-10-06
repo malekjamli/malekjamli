@@ -14,5 +14,5 @@ Contact with me 📝
 https://www.linkedin.com/in/malek-jamli-921421209/
 
 Languages and Tools 🛠 📝
-android arduino bootstrap c cplusplus css3 docker firebase git html5 illustrator java javascript linux mysql opencv oracle pandas php python pytorch scikit_learn tensorflow
+bootstrap c cplusplus css3 docker firebase git html5 illustrator java javascript linux mysql opencv oracle pandas php python pytorch scikit_learn tensorflow
 -->
