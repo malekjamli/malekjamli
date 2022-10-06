@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi,👋I'm Malek JAMLI from Tunisia
+#I'm a Computer Science and Engineering Student
 
 - 🔭  I’m currently working on web development technologies like JavaScript, React etc
 - 🌱 📚 I’m currently learning everything about Frontend and Backend technologies 😅
