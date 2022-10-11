@@ -1,8 +1,8 @@
 ### Hi,👋I'm Malek JAMLI from Tunisia
 #### I'm a Computer Science Engineering Student
 
-- 🔭  I’m currently working on web development technologies like JavaScript, React etc
-- 🌱 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 🔭  I’m currently working on web development technologies like JavaScript, React, Angular, spring Boot, .Net etc
+- 🌱 📚 I’m currently learning everything about Frontend and Backend technologies, Devops technologies and cloud. 😅
 - 👯 I’m looking to an Internship for my Final Education Project.
 - 📫 How to reach me: malek.jamli@enis.tn
 
